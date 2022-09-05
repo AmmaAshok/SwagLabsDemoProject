@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "eSx5Uzm/aVcvOouv1sGDmqKYwwZgDW04zYEGrxyW8rLm4tc/9q0LmnFawf4IFA0oxI8WzpwGKWUucsXt7Hn+3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Ashok Selenium C#\\SwagLabsDemoProject\\SwagClassLib\\SwagClassLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\E009117\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\E009117\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.3.0\\dotnetseleniumextras.pageobjects.core.4.3.0.nupkg.sha512",
+    "C:\\Users\\E009117\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core.linq\\1.0.0\\dotnetseleniumextras.pageobjects.core.linq.1.0.0.nupkg.sha512",
+    "C:\\Users\\E009117\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\E009117\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\E009117\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\E009117\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\E009117\\.nuget\\packages\\selenium.support\\4.3.0\\selenium.support.4.3.0.nupkg.sha512",
+    "C:\\Users\\E009117\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512",
+    "C:\\Users\\E009117\\.nuget\\packages\\selenium.webdriver.chromedriver\\104.0.5112.7900\\selenium.webdriver.chromedriver.104.0.5112.7900.nupkg.sha512"
+  ],
+  "logs": []
+}

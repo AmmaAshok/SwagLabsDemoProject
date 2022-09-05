@@ -1,0 +1,9 @@
+C:\Ashok Selenium C#\SwagLabsDemoProject\SwagClassLib\bin\Debug\netstandard2.0\SwagClassLib.deps.json
+C:\Ashok Selenium C#\SwagLabsDemoProject\SwagClassLib\bin\Debug\netstandard2.0\SwagClassLib.dll
+C:\Ashok Selenium C#\SwagLabsDemoProject\SwagClassLib\bin\Debug\netstandard2.0\SwagClassLib.pdb
+C:\Ashok Selenium C#\SwagLabsDemoProject\SwagClassLib\obj\Debug\netstandard2.0\SwagClassLib.csprojAssemblyReference.cache
+C:\Ashok Selenium C#\SwagLabsDemoProject\SwagClassLib\obj\Debug\netstandard2.0\SwagClassLib.AssemblyInfoInputs.cache
+C:\Ashok Selenium C#\SwagLabsDemoProject\SwagClassLib\obj\Debug\netstandard2.0\SwagClassLib.AssemblyInfo.cs
+C:\Ashok Selenium C#\SwagLabsDemoProject\SwagClassLib\obj\Debug\netstandard2.0\SwagClassLib.csproj.CoreCompileInputs.cache
+C:\Ashok Selenium C#\SwagLabsDemoProject\SwagClassLib\obj\Debug\netstandard2.0\SwagClassLib.dll
+C:\Ashok Selenium C#\SwagLabsDemoProject\SwagClassLib\obj\Debug\netstandard2.0\SwagClassLib.pdb
