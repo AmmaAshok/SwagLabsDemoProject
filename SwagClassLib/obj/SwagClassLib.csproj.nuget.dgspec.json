@@ -36,6 +36,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Assert": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
             "DotNetSeleniumExtras.PageObjects": {
               "target": "Package",
               "version": "[3.11.0, )"
@@ -51,6 +55,18 @@
             "DotNetSeleniumExtras.WaitHelpers": {
               "target": "Package",
               "version": "[*, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -69,6 +85,10 @@
             "Selenium.WebDriver.ChromeDriver": {
               "target": "Package",
               "version": "[104.0.5112.7900, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [

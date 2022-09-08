@@ -11,9 +11,10 @@ namespace SwagClassLib
 {
     public class CartPage
     {
-         private IWebDriver _driver;
+        private IWebDriver _driver;
 
-
+        [FindsBy(How=How.XPath, Using="//span[@class='title']")]
+        private IWebElement _yourcart;
         
         [FindsBy(How= How.Id, Using="checkout")]
         private IWebElement _CheckOut;
@@ -28,6 +29,12 @@ namespace SwagClassLib
         public void CheckOut()
         {
             _CheckOut.Click();
+        }
+
+        public string CartText()
+        {
+           string actual2=_yourcart.Text;
+            return actual2;
         }
     }
 }

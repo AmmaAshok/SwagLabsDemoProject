@@ -6,10 +6,14 @@
     <PackageReference Include="Selenium.Support" Version="4.3.0"/>
     <PackageReference Include="Selenium.WebDriver" Version="4.3.0"/>
     <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="104.0.5112.7900"/>
-   
     <PackageReference Include="DotNetSeleniumExtras.PageObjects" Version="3.11.0"/>
     <PackageReference Include="DotNetSeleniumExtras.PageObjects.Core" Version="4.3.0"/>
     <PackageReference Include="DotNetSeleniumExtras.PageObjects.Core.Linq" Version="1.0.0"/>
     <PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="*"/>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0"/>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.0"/>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0"/>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="6.0.0"/>
+    <PackageReference Include="Assert" Version="4.1.0"/>
   </ItemGroup>
 </Project>

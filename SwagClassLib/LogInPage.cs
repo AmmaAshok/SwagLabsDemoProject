@@ -56,6 +56,11 @@ namespace SwagClassLib
             return actual4;
         }
 
+        public string getPageTitle()
+        {
+            return _driver.Title;
+        }
+
         
     }
 }

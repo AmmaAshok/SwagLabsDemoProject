@@ -118,7 +118,13 @@ namespace SwagClassLib
             string actualValue=_puserbackpackimage.GetAttribute("src");
             return actualValue;
         }
-
+        
+        public string ProductTitle()
+        {
+           string actualproducttitle=_products.Text;
+            return actualproducttitle;
+        }
+        //filter dropdown
         public void FiltersDropdown()
         {  
          SelectElement productsfilter = new SelectElement((_FilterDropdown));
